@@ -1,6 +1,6 @@
 <!-- BANNER COM GIF DO NOME -->
 <p align="center">
-  <img src="https://pt.bloggif.com/tmp/c9afd55840da32fcba094c0458f381f9/text.gif?1755197974" alt="Eliel Murbach" width="400">
+  <img src="https://pt.bloggif.com/tmp/0c07ec542991cf87360062cd0519fe00/text.gif?1755198140?1755197974" alt="Eliel Murbach" width="400">
   <br>
   <span style="font-size:18px; color:#ffffffcc;">Dev Mobile | React Native | Tailwind</span>
 </p>
@@ -16,11 +16,11 @@
 
 ---
 
-## 🚀 Algumas coisas que gosto de fazer
-- 💙 Mexer em **mobile** com **React Native (Expo)**  
-- 🎯 Curto **UI/UX**, **Tailwind**, **componentização** e **boas práticas**  
-- 🛠️ Brincando com **Node.js**, **Express**, **TypeScript** e **SQLite/PostgreSQL**  
-- 🌎 Brasil • fuso: America/Campo_Grande  
+## Algumas coisas que gosto de fazer :)
+- Mexer em **mobile** com **React Native (Expo)**  :)
+- Curto **UI/UX**, **Tailwind**, **componentização** e **boas práticas**  :)
+- Brincando com **Node.js**, **Express**, **TypeScript** e **SQLite/PostgreSQL**  :)
+- Brasil • fuso: America/Campo_Grande  :)
 
 ---
 
@@ -31,7 +31,7 @@
 
 ---
 
-## 🧰 Stack & Ferramentas
+## Stack & Ferramentas :)
 <p>
   <img height="32" alt="TS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img height="32" alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -47,7 +47,7 @@
 
 ---
 
-## 📊 Métricas
+## Métricas :)
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ElielMurbach&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElielMurbach&layout=compact&theme=transparent&langs_count=8" alt="top langs" />
@@ -59,7 +59,7 @@
 
 ---
 
-## 🏆 Troféus
+##  Troféus :)
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ElielMurbach&no-bg=true&no-frame=true&theme=flat&row=1&column=6" alt="trophies" />
 </p>
