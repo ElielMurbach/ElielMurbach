@@ -1,13 +1,11 @@
 <!-- BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0ea5e9,100:22c55e&text=Eliel%20Murbach&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Dev%20Mobile%20%7C%20React%20Native%20%7C%20Tailwind&descAlign=50&descAlignY=65" width="100%" />
 
-<!-- TÍTULO -->
 <h1 align="center">👋 Fala, eu sou o Eliel!</h1>
 
 <p align="center">
   <a href="https://github.com/ElielMurbach?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/ElielMurbach?style=flat&label=Seguidores"></a>
   <a href="https://github.com/ElielMurbach"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ElielMurbach&style=flat&label=Views"></a>
-  <a href="https://wakatime.com"><img alt="Wakatime" src="https://wakatime.com/badge/user/00000000-0000-0000-0000-000000000000.svg"></a>
 </p>
 
 ---
@@ -17,13 +15,11 @@
 - 🎯 Curto **UI/UX**, **Tailwind**, **componentização** e **boas práticas**  
 - 🛠️ Brincando com **Node.js**/**Express**, **TypeScript** e **SQLite/PostgreSQL**  
 - 🌎 Brasil • fuso: America/Campo_Grande  
-- 📬 Bora trocar ideia: **eliel.murbach.dev@exemplo.com** <!-- substitui pelo teu -->
 
 ---
 
 ## 🧰 Stack & Ferramentas
 <p align="left">
-  <!-- Linguagens -->
   <img height="32" alt="TS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img height="32" alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img height="32" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
@@ -62,7 +58,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/SEU-LINK-AQUI"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="mailto:eliel.murbach.dev@exemplo.com"><img alt="Email" src="https://img.shields.io/badge/Email-25D366?logo=gmail&logoColor=white"></a>
-  <a href="https://eliel.dev"><img alt="Website" src="https://img.shields.io/badge/Portfólio-111?logo=vercel&logoColor=white"></a>
 </p>
 
 ---
@@ -71,17 +66,14 @@
 - 🔹 **Projeto 1:** _Nome do app_ — breve descrição (RN + Expo + Tailwind)  
 - 🔹 **Projeto 2:** _Nome do app_ — breve descrição (API Node + Auth)  
 - 🔹 **Projeto 3:** _Nome do app_ — breve descrição (UI/UX caprichada)  
-> coloca links reais dos teus repositórios acima 😉
 
 ---
 
 ## 🐍 Snake (commits no grid)
-> opcional — ativa com o workflow abaixo.
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ElielMurbach/ElielMurbach/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
+![Snake animation](https://raw.githubusercontent.com/ElielMurbach/ElielMurbach/output/github-contribution-grid-snake.svg)
 
-<!-- RODAPÉ -->
+---
+
 <p align="center">
   <sub>feito com 💚 por <a href="https://github.com/ElielMurbach">Eliel Murbach</a></sub>
 </p>
