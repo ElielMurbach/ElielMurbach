@@ -50,20 +50,23 @@
 
 ## 📊 Métricas
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ElielMurbach&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&title_color=facc15&icon_color=1e3a8a" alt="GitHub Stats" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=ElielMurbach&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&title_color=facc15&icon_color=1e3a8a" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElielMurbach&layout=compact&theme=dark&langs_count=8&title_color=facc15&text_color=ffffff&bg_color=0d1117" alt="Top Langs" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElielMurbach&layout=compact&theme=dark&langs_count=8&title_color=facc15&text_color=ffffff&bg_color=0d1117" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=ElielMurbach&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D&stroke=facc15&background=0d1117&ring=1e3a8a" alt="Streak" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=ElielMurbach&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D&stroke=facc15&background=0d1117&ring=1e3a8a" alt="Streak" />
 </p>
 
+<p align="center">
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=ElielMurbach&theme=react-dark&area=true" alt="GitHub Activity Graph" />
+</p>
 ---
 
-## 🔗 Onde me encontrar
+--Lugares que estou(Redes) --
 <p align="center">
   <a href="https://www.instagram.com/lel.murbaxh" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white">
