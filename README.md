@@ -1,37 +1,37 @@
-<!-- BANNER COM GIF DO NOME -->
 <p align="center">
-  <img src="https://pt.bloggif.com/tmp/0c07ec542991cf87360062cd0519fe00/text.gif?1755198140?1755197974" alt="Eliel Murbach" width="400">
+  <img src="https://pt.bloggif.com/tmp/0c07ec542991cf87360062cd0519fe00/text.gif?1755198140?1755197974" alt="Eliel Murbach" width="500">
   <br>
   <span style="font-size:18px; color:#ffffffcc;">Dev Mobile | React Native | Tailwind</span>
 </p>
 
 <p align="center">
+  <img height="32" alt="EasterEgg" src="https://media.tenor.com/zNVvT9DNU7kAAAAj/vegeta.gif">
   <a href="https://github.com/ElielMurbach?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/ElielMurbach?style=flat&label=Seguidores">
+    <img alt="Followers" src="https://img.shields.io/github/followers/ElielMurbach?style=flat&label=Seguidores&color=1e3a8a&labelColor=111827">
   </a>
   <a href="https://github.com/ElielMurbach">
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ElielMurbach&style=flat&label=Views">
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ElielMurbach&style=flat&color=facc15&label=Views&labelColor=111827">
   </a>
+  <img height="32" alt="EasterEgg" src="https://media.tenor.com/zNVvT9DNU7kAAAAj/vegeta.gif">
 </p>
 
 ---
 
-## Algumas coisas que gosto de fazer :)
-- Mexer em **mobile** com **React Native (Expo)**  :)
-- Curto **UI/UX**, **Tailwind**, **componentização** e **boas práticas**  :)
-- Brincando com **Node.js**, **Express**, **TypeScript** e **SQLite/PostgreSQL**  :)
-- Brasil • fuso: America/Campo_Grande  :)
+## 🚀 Algumas coisas que gosto de fazer :)
+- 💙 Mexer em **mobile** com **React Native (Expo)**  
+- 🎯 Curto **UI/UX**, **Tailwind**, **componentização** e **boas práticas**  
+- 🛠️ Brincando com **Node.js**, **Express**, **TypeScript** e **SQLite/PostgreSQL**  
+- 🌎 Brasil • fuso: America/Campo_Grande  
 
 ---
 
-<!-- Separador animado -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/d8/3e/4d/d83e4dd3cf225e52ac15924d30f7f614.gif" width="100%" alt="Separador animado">
 </p>
 
 ---
 
-## Stack & Ferramentas :)
+## 🧰 Stack & Ferramentas
 <p>
   <img height="32" alt="TS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img height="32" alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -43,35 +43,35 @@
   <img height="32" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img height="32" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img height="32" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img height="32" alt="Vegeta" src="https://media.tenor.com/zNVvT9DNU7kAAAAj/vegeta.gif">
 </p>
 
 ---
 
-## Métricas :)
+## 📊 Métricas
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ElielMurbach&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElielMurbach&layout=compact&theme=transparent&langs_count=8" alt="top langs" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ElielMurbach&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&title_color=facc15&icon_color=1e3a8a" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ElielMurbach&theme=default&hide_border=false&date_format=j%20M%5B%20Y%5D" height="165" alt="streak" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElielMurbach&layout=compact&theme=dark&langs_count=8&title_color=facc15&text_color=ffffff&bg_color=0d1117" alt="Top Langs" />
 </p>
 
----
-
-##  Troféus :)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ElielMurbach&no-bg=true&no-frame=true&theme=flat&row=1&column=6" alt="trophies" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=ElielMurbach&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D&stroke=facc15&background=0d1117&ring=1e3a8a" alt="Streak" />
 </p>
 
 ---
 
 ## 🔗 Onde me encontrar
-<p>
-  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI">
+<p align="center">
+  <a href="https://www.instagram.com/lel.murbaxh" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/eliel-murbach-86697a331" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:eliel.murbach.dev@exemplo.com">
+  <a href="mailto:elielmurbach01@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-25D366?logo=gmail&logoColor=white">
   </a>
 </p>
