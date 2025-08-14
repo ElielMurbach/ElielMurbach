@@ -1,11 +1,13 @@
 <!-- BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0ea5e9,100:22c55e&text=Eliel%20Murbach&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Dev%20Mobile%20%7C%20React%20Native%20%7C%20Tailwind&descAlign=50&descAlignY=65" width="100%" />
 
-<h1 align="center">👋 Fala, eu sou o Eliel!</h1>
-
 <p align="center">
-  <a href="https://github.com/ElielMurbach?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/ElielMurbach?style=flat&label=Seguidores"></a>
-  <a href="https://github.com/ElielMurbach"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ElielMurbach&style=flat&label=Views"></a>
+  <a href="https://github.com/ElielMurbach?tab=followers">
+    <img alt="Followers" src="https://img.shields.io/github/followers/ElielMurbach?style=flat&label=Seguidores">
+  </a>
+  <a href="https://github.com/ElielMurbach">
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ElielMurbach&style=flat&label=Views">
+  </a>
 </p>
 
 ---
@@ -15,17 +17,22 @@
 - 🎯 Curto **UI/UX**, **Tailwind**, **componentização** e **boas práticas**  
 - 🛠️ Brincando com **Node.js**/**Express**, **TypeScript** e **SQLite/PostgreSQL**  
 - 🌎 Brasil • fuso: America/Campo_Grande  
-- 📬 Bora trocar ideia: **eliel.murbach.dev@exemplo.com**
+
+---
+
+<!-- Separador animado -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/d8/3e/4d/d83e4dd3cf225e52ac15924d30f7f614.gif" width="100%" alt="Separador animado">
+</p>
 
 ---
 
 ## 🧰 Stack & Ferramentas
-<p align="left">
+<p>
   <img height="32" alt="TS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img height="32" alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img height="32" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img height="32" alt="Expo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg">
-  <img height="32" alt="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   <img height="32" alt="Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img height="32" alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
   <img height="32" alt="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
@@ -56,25 +63,17 @@
 ---
 
 ## 🔗 Onde me encontrar
-<p align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:eliel.murbach.dev@exemplo.com"><img alt="Email" src="https://img.shields.io/badge/Email-25D366?logo=gmail&logoColor=white"></a>
+<p>
+  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:eliel.murbach.dev@exemplo.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-25D366?logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
 
-## 📂 Destaques
-- 🔹 **Projeto 1:** _Nome do app_ — breve descrição (RN + Expo + Tailwind)  
-- 🔹 **Projeto 2:** _Nome do app_ — breve descrição (API Node + Auth)  
-- 🔹 **Projeto 3:** _Nome do app_ — breve descrição (UI/UX caprichada)  
-
----
-
-<!-- SEPARADOR ANIMADO -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Y5cWViMWNmb2xxMDF2ZmM5ZHBvN2J6bWpyOXJ5ejhnbWZ2dWo4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RRFqAEc4BZgEf6U5Zu/giphy.gif" width="100%" alt="Separador animado">
-</p>
-
-<p align="center">
-  <sub>feito com 💚 por <a href="https://github.com/ElielMurbach">Eliel Murbach</a></sub>
+  <sub>feito por <a href="https://github.com/ElielMurbach">Eliel Murbach</a> 🐉</sub>
 </p>
