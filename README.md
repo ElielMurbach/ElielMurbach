@@ -19,8 +19,8 @@
 
 ## 🚀 Algumas coisas que gosto de fazer :)
 - 💙 Mexer em **mobile** com **React Native (Expo)**  
-- 🎯 Curto **UI/UX**, **Tailwind**, **componentização** e **boas práticas**  
-- 🛠️ Brincando com **Node.js**, **Express**, **TypeScript** e **SQLite/PostgreSQL**  
+- 🎯 Gosto de **UI/UX**, **Tailwind**, **componentização** e **boas práticas**  
+- 🛠️ Mexendo com **Node.js**, **Express**, **TypeScript** e **SQLite/PostgreSQL**  
 - 🌎 Brasil • fuso: America/Campo_Grande  
 
 ---
