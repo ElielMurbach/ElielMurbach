@@ -1,5 +1,9 @@
-<!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0ea5e9,100:22c55e&text=Eliel%20Murbach&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Dev%20Mobile%20%7C%20React%20Native%20%7C%20Tailwind&descAlign=50&descAlignY=65" width="100%" />
+<!-- BANNER COM GIF DO NOME -->
+<p align="center">
+  <img src="https://pt.bloggif.com/tmp/c9afd55840da32fcba094c0458f381f9/text.gif?1755197974" alt="Eliel Murbach" width="400">
+  <br>
+  <span style="font-size:18px; color:#ffffffcc;">Dev Mobile | React Native | Tailwind</span>
+</p>
 
 <p align="center">
   <a href="https://github.com/ElielMurbach?tab=followers">
@@ -12,10 +16,10 @@
 
 ---
 
-## 🚀 Sobre mim
-- 💙 Foco em **mobile** com **React Native (Expo)**  
+## 🚀 Algumas coisas que gosto de fazer
+- 💙 Mexer em **mobile** com **React Native (Expo)**  
 - 🎯 Curto **UI/UX**, **Tailwind**, **componentização** e **boas práticas**  
-- 🛠️ Brincando com **Node.js**/**Express**, **TypeScript** e **SQLite/PostgreSQL**  
+- 🛠️ Brincando com **Node.js**, **Express**, **TypeScript** e **SQLite/PostgreSQL**  
 - 🌎 Brasil • fuso: America/Campo_Grande  
 
 ---
