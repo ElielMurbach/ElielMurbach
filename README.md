@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://pt.bloggif.com/tmp/0c07ec542991cf87360062cd0519fe00/text.gif?1755198140?1755197974" alt="Eliel Murbach" width="500">
   <br>
@@ -5,14 +6,14 @@
 </p>
 
 <p align="center">
-  <img height="32" alt="EasterEgg" src="https://media.tenor.com/zNVvT9DNU7kAAAAj/vegeta.gif">
+  <img height="50" alt="EasterEgg" src="https://media.tenor.com/zNVvT9DNU7kAAAAj/vegeta.gif">
   <a href="https://github.com/ElielMurbach?tab=followers">
     <img alt="Followers" src="https://img.shields.io/github/followers/ElielMurbach?style=flat&label=Seguidores&color=1e3a8a&labelColor=111827">
   </a>
   <a href="https://github.com/ElielMurbach">
     <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ElielMurbach&style=flat&color=facc15&label=Views&labelColor=111827">
   </a>
-  <img height="32" alt="EasterEgg" src="https://media.tenor.com/zNVvT9DNU7kAAAAj/vegeta.gif">
+  <img height="50" alt="EasterEgg" src="https://media.tenor.com/zNVvT9DNU7kAAAAj/vegeta.gif">
 </p>
 
 ---
