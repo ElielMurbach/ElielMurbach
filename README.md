@@ -69,10 +69,10 @@
 
 ---
 
-## 🐍 Snake (commits no grid)
-![Snake animation](https://raw.githubusercontent.com/ElielMurbach/ElielMurbach/output/github-contribution-grid-snake.svg)
-
----
+<!-- SEPARADOR ANIMADO -->
+<p align="center">
+  <img src="https://i.gifer.com/7efs.gif" width="100%" alt="Separador animado">
+</p>
 
 <p align="center">
   <sub>feito com 💚 por <a href="https://github.com/ElielMurbach">Eliel Murbach</a></sub>
