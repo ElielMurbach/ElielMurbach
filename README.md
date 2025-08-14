@@ -1,7 +1,7 @@
 <!-- BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0ea5e9,100:22c55e&text=Eliel%20Murbach&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Dev%20Mobile%20%7C%20React%20Native%20%7C%20Tailwind&descAlign=50&descAlignY=65" width="100%" />
 
-<h1 align="center">👋 Fala, eu sou o Eliel!</h1>
+<h1 align="center">Welcome ao Git Del Eliel</h1>
 
 <p align="center">
   <a href="https://github.com/ElielMurbach?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/ElielMurbach?style=flat&label=Seguidores"></a>
