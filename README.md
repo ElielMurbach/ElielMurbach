@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://pt.bloggif.com/tmp/0c07ec542991cf87360062cd0519fe00/text.gif?1755198140?1755197974" alt="Eliel Murbach" width="500">
+  <img src="https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6ImZsb2F0aWUiLCJ0ZXh0IjoiRWxpZWwlMjBNdXJiYWNoIiwiaWF0IjoxNzY0MTg5MTk5fQ.8HIZeOB8Uhsz_y5fQvIkub1BqiaNxuQzcLpACHU_EZI" alt="Eliel Murbach" width="500">
   <br>
   <span style="font-size:18px; color:#ffffffcc;">Dev Mobile | React Native | Tailwind</span>
 </p>
